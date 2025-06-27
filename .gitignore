@@ -1,0 +1,6 @@
+venv/
+data/
+*.tar.gz
+*.so
+*.pack
+__pycache__/
